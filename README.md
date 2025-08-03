@@ -1,7 +1,10 @@
 # LINK_IT 🔗 – MERN Stack Social Posting App
 
 LINK_IT is a full-stack MERN application that allows users to register, log in, create posts, view a feed, and explore individual user profiles. It's a lightweight social posting platform built with **MongoDB**, **Express**, **React (Vite)**, and **Node.js**, styled with **Tailwind CSS** and **Bootstrap**.
+---
+Demo Link
 
+https://drive.google.com/file/d/1JkFFs6WhYDIajqLjAc9umVpP3mIokl_t/view?usp=drive_link
 ---
 
 ## 🚀 Features
